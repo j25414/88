@@ -1,7 +1,7 @@
 <style type="text/css">#github-urls a{pointer-events:none;}#github-logo{display:none;}</style><img id="github-logo" src="data:image/png;base64,7c8319e0ebe8653b4689a9883a63648a2b544e1ccf8334b21f3fdecb456db841de310635f5e036200a5f465175f3c2711903b4674aeb792c6ac0146315927644344d9596b80a4675651e28ceb4211e29a48658f7d4e489c06d2d56cb5f54109107da63d0687924a6290b19b2a7543d75ca52077f07587f18c4bda35c2045954c5079439770cf52dd168b2676d26d4931d4117c527809eb62e3ea383c809571ad7b9e17ebd184c87206d481f8046e17b0" alt="1cr" />
 
 <div id="github-urls">
-<a href="https://ke.hagre.tk/" onclick="clicka(this,'http://ahc1.bogg.tk/');return false;">鍔ㄦ€佺綉</a>
+<a href="https://ke.hagre.tk/" onclick="clicka(this,'http://ahc1.bogg.tk/');return false;">动态网</a>
 </div>
 
 <script type="text/javascript">
